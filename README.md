@@ -92,9 +92,3 @@ SupportX AI Assist is an intelligent IT ticket resolver that leverages Azure Ope
 ## License
 
 MIT License
-
----
-
-**Developed by Sandesh Hase**
-
-All rights reserved.
